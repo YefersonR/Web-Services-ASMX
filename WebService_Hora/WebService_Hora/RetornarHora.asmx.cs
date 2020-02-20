@@ -17,11 +17,7 @@ namespace WebService_Hora
     public class RetornarHora : System.Web.Services.WebService
     {
 
-        [WebMethod]
-        public string HelloWorld()
-        {
-            return "Hola a todos";
-        }
+        
         [WebMethod]
         public String Hora()
         {

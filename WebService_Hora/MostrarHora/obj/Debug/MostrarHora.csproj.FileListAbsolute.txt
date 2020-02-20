@@ -8,3 +8,13 @@ C:\Users\hp\source\repos\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.cspro
 C:\Users\hp\source\repos\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.exe
 C:\Users\hp\source\repos\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.pdb
+C:\Users\hp\Desktop\ASMX\WebService_Hora\MostrarHora\bin\Debug\MostrarHora.exe.config
+C:\Users\hp\Desktop\ASMX\WebService_Hora\MostrarHora\bin\Debug\MostrarHora.exe
+C:\Users\hp\Desktop\ASMX\WebService_Hora\MostrarHora\bin\Debug\MostrarHora.pdb
+C:\Users\hp\Desktop\ASMX\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\ASMX\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.Form1.resources
+C:\Users\hp\Desktop\ASMX\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.Properties.Resources.resources
+C:\Users\hp\Desktop\ASMX\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ASMX\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ASMX\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.exe
+C:\Users\hp\Desktop\ASMX\WebService_Hora\MostrarHora\obj\Debug\MostrarHora.pdb
